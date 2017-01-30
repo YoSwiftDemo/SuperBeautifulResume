@@ -1,0 +1,25 @@
+PODS:
+  - MJExtension (3.0.13)
+  - XMNetworking (1.0.0):
+    - XMNetworking/Core (= 1.0.0)
+    - XMNetworking/Lib (= 1.0.0)
+  - XMNetworking/Core (1.0.0):
+    - XMNetworking/Lib/AFNetworking-3.1.0
+  - XMNetworking/Lib (1.0.0):
+    - XMNetworking/Lib/AFNetworking-3.1.0 (= 1.0.0)
+  - XMNetworking/Lib/AFNetworking-3.1.0 (1.0.0)
+  - XXNibBridge (2.3.1)
+
+DEPENDENCIES:
+  - MJExtension (~> 3.0.13)
+  - XMNetworking
+  - XXNibBridge (~> 2.3.1)
+
+SPEC CHECKSUMS:
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  XMNetworking: 997cdb61f537362a2bb7bb4e7e0a36bff03bdad1
+  XXNibBridge: addb780e6db076eb2c61716aa60b176a6799b80f
+
+PODFILE CHECKSUM: d43b74a71924f2389fa7e978c4d172b1df9b706f
+
+COCOAPODS: 1.2.0.beta.1
